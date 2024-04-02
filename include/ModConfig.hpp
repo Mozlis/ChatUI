@@ -3,7 +3,7 @@
 
 DECLARE_CONFIG(ModConfig,
 
-    CONFIG_VALUE(Channel, std::string, "Channel Name", "darknight1050");
+    CONFIG_VALUE(Channel, std::string, "Channel Name", "Mozlis339");
 
     CONFIG_VALUE(PositionMenu, UnityEngine::Vector3, "Menu Position", ConfigUtils::Vector3(2.0f, 3.6f, 3.5f));
     CONFIG_VALUE(RotationMenu, UnityEngine::Vector3, "Menu Rotation", ConfigUtils::Vector3(-36.0f, 34.0f, 0.0f));
